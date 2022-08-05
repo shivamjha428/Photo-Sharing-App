@@ -1,0 +1,22 @@
+.imagepost{
+    margin-left: 55vh;
+    width: 80vh;
+    height: 40%;
+    border: 2px solid gray;
+    margin-bottom: 10vh;
+}
+.desc{
+    margin-left: -65vh;
+}
+.dt{
+    margin-left: 83%;
+    margin-top: -15vh;
+}
+.likes{
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.date{
+    margin-left: 83%;
+    margin-top: -40px;
+}
